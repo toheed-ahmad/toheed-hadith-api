@@ -1,0 +1,23 @@
+{
+  "name": "toheed-hadith-api",
+  "version": "1.0.0",
+  "description": "A multilingual Hadith API serving data in Arabic, Urdu, Hindi, and English.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "hadith",
+    "api",
+    "express",
+    "json",
+    "islamic-api"
+  ],
+  "author": "Toheed Ahmad",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
