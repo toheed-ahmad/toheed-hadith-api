@@ -1,0 +1,32 @@
+{
+  "app_name": {
+    "ur": "یاد الٰہی",
+    "en": "Yade-Ilahi"
+  },
+  "modules": [
+    {
+      "id": "iman",
+      "title": {
+        "ur": "ایمان و یقین",
+        "en": "Faith and Certainty"
+      },
+      "file": "iman.json"
+    },
+    {
+      "id": "salah",
+      "title": {
+        "ur": "نماز و خشوع",
+        "en": "Prayer and Devotion"
+      },
+      "file": "salah.json"
+    },
+    {
+      "id": "akhlaq",
+      "title": {
+        "ur": "اخلاق و حسن سلوک",
+        "en": "Character and Good Conduct"
+      },
+      "file": "akhlaq.json"
+    }
+  ]
+}

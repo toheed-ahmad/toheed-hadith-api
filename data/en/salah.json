@@ -1,0 +1,50 @@
+{
+  "title": "Prayer and Devotion",
+  "language": "en",
+  "chapter": {
+    "id": 2,
+    "title": "Prayer and Devotion",
+    "hadiths": [
+      {
+        "id": 5,
+        "text": "The five daily prayers and the Friday prayer to the next Friday prayer are expiation for what is between them, as long as major sins are not committed.",
+        "benefits": [
+          "Emphasizes the importance of regular prayers as expiation for sins",
+          "Encourages abstaining from major sins",
+          "Serves as a means of purification from sins",
+          "Provides spiritual cleansing"
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Whoever performs ablution for prayer and does it perfectly, then walks to the obligatory prayer and prays it with the people or with the congregation, Allah will forgive his sins.",
+        "benefits": [
+          "Great reward for performing ablution and going to the mosque for prayer",
+          "Highlights the virtue of praying in congregation",
+          "Serves as a means of forgiveness of sins",
+          "Guarantees success in the Hereafter"
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Whoever prays the two cool prayers (Fajr and Asr) will enter Paradise.",
+        "benefits": [
+          "Explains the special virtue of Fajr and Asr prayers",
+          "Encourages attention to remembrance and worship during these times",
+          "Blessings are obtained",
+          "Promises Paradise, which is the best reward"
+        ]
+      },
+      {
+        "id": 8,
+        "text": "When one of you feels sleepy during prayer, he should sleep until drowsiness leaves him, for when one of you prays while drowsy, he does not know whether he is seeking forgiveness or cursing himself.",
+        "benefits": [
+          "Clarifies the importance of concentration and devotion in prayer",
+          "Teaches to pray with contemplation rather than heedlessness",
+          "Advises against praying in a state of sleepiness",
+          "Encourages performing worship with spiritual and inner peace"
+        ]
+      }
+    ]
+  }
+}
