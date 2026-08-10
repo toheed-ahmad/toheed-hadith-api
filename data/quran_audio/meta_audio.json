@@ -1,0 +1,40 @@
+{
+  "reciters": [
+     {
+      "id": "saadalghamdi",
+      "name": "قاری سعد الغامدی",
+      "englishName": "Qari Saad Al-Ghamdi",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/saadalghamdi.json"
+    },
+    {
+      "id": "sudais",
+      "name": "قاری عبد الرحمن السديس",
+      "englishName": "Qari Abdul Rahman Al-Sudais",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/sudais.json"
+    },
+    {
+      "id": "abdulbasit",
+      "name": "قاری عبد الباسط",
+      "englishName": "Qari Abdul Basit",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/abdulbasit.json"
+    },
+    {
+      "id": "minshawi",
+      "name": "قاری صديق المنشاوي",
+      "englishName": "Qari Siddiq El-Minshawi",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/minshawi.json"
+    },
+    {
+      "id": "maher",
+      "name": "قاری ماھر المعيقلي",
+      "englishName": "Qari Maher Al-Muaiqly",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/maher.json"
+    },
+    {
+      "id": "alafasy",
+      "name": "قاری محمد مشاری",
+      "englishName": "Qari Mishary Rashid Alafasy",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/alafasy.json"
+    }
+  ]
+}
