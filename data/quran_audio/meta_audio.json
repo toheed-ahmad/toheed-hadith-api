@@ -13,6 +13,12 @@
       "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/sudais.json"
     },
     {
+      "id": "yasser_dossari",
+      "name": "قاری یاسر الدوسری",
+      "englishName": "Qari Yasir Al-Dawsari",
+      "url": "https://raw.githubusercontent.com/toheed-ahmad/toheed-hadith-api/main/data/quran_audio/yasser_dossari.json"
+    },
+    {
       "id": "abdulbasit",
       "name": "قاری عبد الباسط",
       "englishName": "Qari Abdul Basit",
